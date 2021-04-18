@@ -19,18 +19,13 @@ from AdvRoom import AdvRoom
 class AdvGame:
 
     def __init__(self, prefix):
-        """Creates the AdvGame objects with populated rooms"""
+        """Reads the game data from files with the specified prefix."""
 
     def get_room(self, name):
         """Returns the AdvRoom object with the specified name."""
 
     def run(self):
         """Plays the adventure game stored in this object."""
-
-    @staticmethod
-    def read_game(f):
-        """ Reads in the game data from the data handle f. """
-
 
 # Constants
 
