@@ -1,4 +1,4 @@
-# File: AdvObject.js
+# File: AdvObject.py
 
 """
 This module defines a class that models an object in Adventure.
