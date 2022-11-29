@@ -19,10 +19,20 @@ from AdvRoom import AdvRoom
 class AdvGame:
 
     def __init__(self, prefix):
-        """Reads the game data from files with the specified prefix."""
+        """Reads the game data from files with the specified prefix.
+        Args:
+            prefix (str): The prefix starting each of the file names
+        Returns:
+            None
+        """
 
     def get_room(self, name):
-        """Returns the AdvRoom object with the specified name."""
+        """Returns the AdvRoom object with the specified name.
+        Args:
+            name (str): the unique name of a room
+        Returns:
+            (AdvRoom): the corresponding AdvRoom object
+        """
 
     def run(self):
         """Plays the adventure game stored in this object."""
