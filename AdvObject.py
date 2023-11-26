@@ -39,7 +39,7 @@ def read_object(f):
     """Reads the next object from the file, returning None at the end.
 
     Args:
-        f (file handle): the file handle of the opened objects text file
+        f (file handle): the file handle of the opened object's text file
     Returns:
         (AdvObject or None): an AdvObject object or None if at end of the file
     """

@@ -19,7 +19,9 @@ from AdvRoom import AdvRoom
 class AdvGame:
 
     def __init__(self, prefix):
-        """Reads the game data from files with the specified prefix.
+        """Reads the game data from files with the specified prefix and
+        stores that information in attributes.
+
         Args:
             prefix (str): The prefix starting each of the file names
         Returns:

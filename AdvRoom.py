@@ -33,7 +33,7 @@ class AdvRoom:
         """Returns the name of this room."""
 
     def get_short_description(self):
-        """Returns a one-line short description of this room.."""
+        """Returns the one-line short description of this room.."""
 
     def get_long_description(self):
         """Returns the list of lines describing this room."""
