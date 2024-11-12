@@ -10,7 +10,7 @@
 # The only change you need to make in this file is the definition of
 # DATA_FILE_PREFIX, which should be one of the following strings:
 #
-#    "Tiny"      A four-room Adventure with no objects or synonyms
+#    "Tiny"      A four-room Adventure with no items or synonyms
 #    "Small"     A 12-room Adventure that tests all the features
 #    "Crowther"  The full 77-room Adventure game
 
