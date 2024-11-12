@@ -56,8 +56,8 @@ HELP_TEXT = [
     "",
     "Much of my vocabulary describes places and is used to move you there.",
     "To move, try words like IN, OUT, EAST, WEST, NORTH, SOUTH, UP, or DOWN.",
-    "I also know about a number of objects hidden within the cave which you",
-    "can TAKE or DROP.  To see what objects you're carrying, say INVENTORY.",
+    "I also know about a number of items hidden within the cave which you",
+    "can TAKE or DROP.  To see what items you're carrying, say INVENTORY.",
     "To reprint the detailed description of where you are, say LOOK.  If you",
     "want to end your adventure, say QUIT."
 ]
