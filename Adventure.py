@@ -1,6 +1,7 @@
 # File: Adventure.py
 # Name: your name
 # Partner: partners name if applicable
+# GenAI transcript (if used):
 # Description of any extensions:
 
 """This file runs the Adventure game."""
